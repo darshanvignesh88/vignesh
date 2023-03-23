@@ -23,7 +23,8 @@ public class CompanyInfo {
 		
 		System.out.println("Dhrshan start the work");
 		
-		
+		String name = "Dharsan";
+		System.out.println(name);
 		
 		
 		
