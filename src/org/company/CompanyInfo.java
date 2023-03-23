@@ -22,8 +22,8 @@ public class CompanyInfo {
 		a.companyAddress();
 		
 		System.out.println("Dhrshan start the work");
-		
-		
+		int a1= 23;
+		System.out.println(a1);
 		
 		
 		
